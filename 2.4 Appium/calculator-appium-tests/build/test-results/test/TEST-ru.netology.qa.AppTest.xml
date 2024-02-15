@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.qa.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-15T04:54:26" hostname="EVGENIYA" time="52.441">
+  <properties/>
+  <testcase name="testInstallSpace()" classname="ru.netology.qa.AppTest" time="18.494"/>
+  <testcase name="testEmptyText()" classname="ru.netology.qa.AppTest" time="16.998"/>
+  <testcase name="testTextNewActivity()" classname="ru.netology.qa.AppTest" time="16.946"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[февр. 15, 2024 11:54:38 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+февр. 15, 2024 11:54:55 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+февр. 15, 2024 11:55:13 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
